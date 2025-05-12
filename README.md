@@ -58,8 +58,8 @@ e duas de nível "difícil", os exercícios foram resolvidos usando a linguagem 
             <td><a href="https://www.youtube.com/watch?v=OzwcDEeoDWk" target="_blank">Assistir no YouTube</a></td>
         </tr>
         <tr>
-            <td></td>
-            <td><a href="" target="_blank"></a>Assistir no YouTube</td>
+            <td>Apresentação das questões "Is Graph Bipartite?" e "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree" </td>
+            <td><a href="" target="_blank">"https://youtu.be/RnFS__4CIYo"</a>Assistir no YouTube</td>
         </tr>
     </tbody>
 </table>
