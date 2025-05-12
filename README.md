@@ -45,3 +45,22 @@ e duas de nível "difícil", os exercícios foram resolvidos usando a linguagem 
 
 ## Videos de Apresentação
 
+<table border="1" style="width: 100%; text-align: center;">
+    <thead>
+        <tr>
+            <th>Descrição</th>
+            <th>Link</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Apresentação das questões Number of Ways to Arrive at Destination e 1591. Strange Printer II</td>
+            <td><a href="https://www.youtube.com/watch?v=OzwcDEeoDWk" target="_blank">Assistir no YouTube</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><a href="" target="_blank"></a>Assistir no YouTube</td>
+        </tr>
+    </tbody>
+</table>
+
