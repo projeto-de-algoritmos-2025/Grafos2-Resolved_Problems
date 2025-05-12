@@ -28,7 +28,7 @@ e duas de nível "difícil", os exercícios foram resolvidos usando a linguagem 
             <td>Médio</td>
         </tr>
         <tr>
-            <td><a href="" target="_blank"></a></td>
+            <td><a href="https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/?envType=problem-list-v2&envId=graph" target="_blank">1976. Number Of Ways to Arrive at Destination</a></td>
             <td>Médio</td>
         </tr>
         <tr>
@@ -36,7 +36,7 @@ e duas de nível "difícil", os exercícios foram resolvidos usando a linguagem 
             <td>Difícil</td>
         </tr>
         <tr>
-            <td><a href="" target="_blank"></a></td>
+            <td><a href="https://leetcode.com/problems/strange-printer-ii/description/?envType=problem-list-v2&envId=graph" target="_blank">1591. Strange Printer II</a></td>
             <td>Difícil</td>
         </tr>
     </tbody>
